@@ -2,7 +2,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=op109&layout=compact)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qapepa)](https://solved.ac/qapepa/)
+
 
 <!--
 **op109/op109** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
