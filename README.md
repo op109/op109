@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![장이삭's GitHub stats](https://github-readme-stats.vercel.app/api?username=op109&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=op109&layout=compact)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qapepa)](https://solved.ac/qapepa/)
 
